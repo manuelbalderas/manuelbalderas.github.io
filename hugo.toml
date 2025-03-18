@@ -1,0 +1,14 @@
+baseURL = 'https://manuelbalderas.github.io/'
+languageCode = 'en-us'
+theme = "hugo-theme-console"
+title = 'mane@localhost'
+
+[params]
+
+  [[params.navlinks]]
+  name = "whoami/"
+  url = "whoami/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
