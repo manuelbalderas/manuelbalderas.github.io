@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mane@localhost</title>
+    <link>https://manuelbalderas.github.io/</link>
+    <description>Recent content on mane@localhost</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://manuelbalderas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://manuelbalderas.github.io/whoami/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://manuelbalderas.github.io/whoami/</guid>
+      <description>I&amp;rsquo;m a 23-years-old CE student at Universidad de Guadalajara 🎓🎺, diving deep into cybersecurity and pentesting. 🔏🧪&#xA;My name is Manuel Balderas, but most of my friends call me Mane 👋. I&amp;rsquo;m currently in my final semester of Computer Engineer, and I am deeply passionate about cybersecurity 👾. Although I&amp;rsquo;m still in the early stages of my ethical hacker journey 🕵️‍♂️, I&amp;rsquo;m constantly learning and improving my skills, and I&amp;rsquo;m excited to share my experiences here.</description>
+    </item>
+  </channel>
+</rss>
