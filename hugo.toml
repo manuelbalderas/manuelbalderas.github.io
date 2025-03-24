@@ -1,0 +1,27 @@
+baseurl = "https://manuelbalderas.github.io/"
+title = "manuelbalderas"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  navTitle = "mane@localhost"
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
+  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
